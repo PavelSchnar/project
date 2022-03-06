@@ -1,1 +1,1 @@
-"some content from terminal" 
+ 
